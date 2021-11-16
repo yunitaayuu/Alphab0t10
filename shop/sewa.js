@@ -11,13 +11,9 @@ return `「 *PRICE LIST* 」
 ⬡ PERMANEN + USER PREM = ${__permanen}
 
 
-⬣ PRICE JADIBOT
-
-⬡ JADI BOT PERMANEN 25K
-
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/62857002877601
 
 
 NOTE : 
